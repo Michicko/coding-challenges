@@ -4,7 +4,7 @@ This is a clone of the Unix command line tool wc.
 
 The ccwc command counts the number of lines, words, and bytes in the files specified by the File parameter.
 
-When you use the File parameter, the ccwc command displays the file names as well as the requested counts. If you do not specify a file name for the File parameter, the wc command uses standard input.
+When you use the File parameter, the ccwc command displays the file names as well as the requested counts. If you do not specify a file name for the File parameter, the ccwc command uses standard input.
 
 ## Syntax
 
